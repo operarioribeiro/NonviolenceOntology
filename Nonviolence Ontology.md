@@ -6,7 +6,7 @@
 
 **Nonviolence Ontology** is a [semantic web]([controlled vocabulary](https://en.wikipedia.org/wiki/Controlled_vocabulary)) [ontology](https://en.wikipedia.org/wiki/Ontology_(information_science)) [controlled vocabulary](https://en.wikipedia.org/wiki/Controlled_vocabulary) for [nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) and [nonviolent tactics](https://www.tactics.nonviolenceinternational.net) that can be used for [artificial intelligence](https://www.aifreecert.com) [open ethics](https://doi.org/10.5281/zenodo.18209465) [regulatory compliance](https://en.wikipedia.org/wiki/Regulatory_compliance).
 
-![image](https://github.com/operarioribeiro/SemanticWebSecurity/blob/main/Nonviolence%20Ontology.png)
+![image](https://github.com/operarioribeiro/NonviolenceOntology/blob/main/Nonviolence%20Ontology.png)
 
 ## Open Methodology:
 
